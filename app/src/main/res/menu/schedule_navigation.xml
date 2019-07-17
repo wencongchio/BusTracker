@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_university"
+        android:icon="@drawable/ic_university"
+        android:title="South Wing" />
+
+    <item
+        android:id="@+id/navigation_tbs"
+        android:icon="@drawable/ic_tbs"
+        android:title="TBS" />
+
+    <item
+        android:id="@+id/navigation_college"
+        android:icon="@drawable/ic_college"
+        android:title="North Wing" />
+
+</menu>

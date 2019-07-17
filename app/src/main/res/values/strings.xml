@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bus Tracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_home">Home</string>
+    <string name="title_location">Track Bus Location</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_feedback">Feedback</string>
+    <string name="departure_time">Departure Time</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email (Optional)</string>
+    <string name="feedback_title">Hello!</string>
+    <string name="feedback_subtitle">Send us your feedback on our app or service so we can improve the experience.</string>
+    <string name="title_activity_location">Location</string>
+    <string name="message_no_bus_available">Bus service is currently not available</string>
+    <string name="tbs">Location 2</string>
+    <string name="university">Location 1</string>
+    <string name="college">Location 3</string>
+    <string name="feedback_submitting">Submitting your feedback. Please wait...</string>
+    <string name="feedback_submitted">Your feedback has been submitted</string>
+    <string name="feedback_submit_error">Your feedback has been submitted</string>
+    <string name="empty_field">Field cannot be empty</string>
+    <string name="next_departure_time">Next Departure Time</string>
+</resources>
